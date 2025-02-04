@@ -115,6 +115,7 @@ form input, form textarea {
   margin: 10px 0;
   border: 1px solid #ddd;
   background-color: #f7f0f0;
+  outline: none;
   border-radius: 5px;
   font-size: 16px;
 }
